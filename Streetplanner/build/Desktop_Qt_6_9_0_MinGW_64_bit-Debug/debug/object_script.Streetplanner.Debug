@@ -1,0 +1,17 @@
+debug/abstractmap.o
+debug/city.o
+debug/dialog.o
+debug/dijkstra.o
+debug/externalmap.o
+debug/main.o
+debug/mainwindow.o
+debug/map.o
+debug/mapio.o
+debug/mapiofileinput.o
+debug/mapionrw.o
+debug/street.o
+debug/streetdialog.o
+debug/moc_dialog.o
+debug/moc_externalmap.o
+debug/moc_mainwindow.o
+debug/moc_streetdialog.o

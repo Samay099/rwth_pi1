@@ -1,0 +1,17 @@
+release/abstractmap.o
+release/city.o
+release/dialog.o
+release/dijkstra.o
+release/externalmap.o
+release/main.o
+release/mainwindow.o
+release/map.o
+release/mapio.o
+release/mapiofileinput.o
+release/mapionrw.o
+release/street.o
+release/streetdialog.o
+release/moc_dialog.o
+release/moc_externalmap.o
+release/moc_mainwindow.o
+release/moc_streetdialog.o

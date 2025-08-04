@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Streetplanner_FILE /home/samay099/Desktop/CE/Praktikum_2/Streetplanner/build/Desktop_Qt_6_9_0-Debug/Streetplanner)
+set(__QT_DEPLOY_TARGET_Streetplanner_TYPE EXECUTABLE)
